@@ -1,0 +1,54 @@
+body{ 
+    padding: 0;
+    margin: 0;
+}
+
+ h1{
+    text-align: center; 
+     
+    margin: 0;
+}
+.textcontent{
+    padding: 5vw 0 3vw;
+}
+.country{ 
+        text-align: center;
+}
+.sea {
+    background-image: url("https://images.pexels.com/photos/8322905/pexels-photo-8322905.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"); 
+    background-repeat: no-repeat;
+    height: 48vh;
+    width: 31vw;
+    float: left;    
+    background-size: cover;
+    color:white;
+    position: relative;
+}
+
+.mountain {
+    background-image: url("https://getwalls.io/media/large/2015/05/queen-elsa-frozen-mountains-large-359361328.jpg");
+    height:48vh; 
+    width:57vw;
+    background-repeat: no-repeat;
+    float: right;
+    color:white;
+    position: relative;
+}
+.imgcontent{
+    padding-inline: 2vw;
+}
+.content{
+    border-left: solid 3vw rgb(168, 154, 154);
+    border-right: solid 3vw rgb(168, 154, 154);
+    height: 100vh;
+}
+.heading{
+    font-size: 3vh;
+   
+}
+.text{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 0 0.5vw;
+}
