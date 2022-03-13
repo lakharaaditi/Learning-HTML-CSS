@@ -1,0 +1,16 @@
+
+
+ a:link{
+    color: royalblue
+}
+a:visited{
+color: brown;
+}
+a.highlight:hover{
+color: rgb(43, 226, 83);
+font-size: 1px;
+font-family: Georgia, Times, 'Times New Roman', serif;
+}
+a:active{
+color: rgb(208, 255, 0);   
+}    

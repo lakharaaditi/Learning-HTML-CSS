@@ -1,0 +1,20 @@
+.container{
+    padding: auto;
+
+}
+.pic1{background-image: url("https://c4.wallpaperflare.com/wallpaper/758/323/699/nature-scenery-beautiful-mountain-wallpaper-wallpaper-preview.jpg");
+    height: 55vh;
+    width: 32vw;
+float: left;
+}
+.pic2{background-image: url("https://images.unsplash.com/photo-1604093882750-3ed498f3178b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmF0dXJhbCUyMHNjZW5lcnl8ZW58MHx8MHx8&w=1000&q=80");
+    height: 55vh;
+    width: 32vw;
+    float: left;
+
+}
+.pic3{background-image: url("https://thumbs.dreamstime.com/z/natural-scenery-765677.jpg");
+    height: 55vh;
+    width: 32vw;
+    float: left;
+}

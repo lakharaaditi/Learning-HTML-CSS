@@ -1,0 +1,13 @@
+div p {
+    background-color: blue;
+    color: black;
+}
+div>h3{
+    background-color: yellowgreen;
+}
+div+h6{
+    background-color: aqua;
+}
+div~h5{
+    background-color: brown;
+}

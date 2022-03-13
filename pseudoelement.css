@@ -1,0 +1,24 @@
+p::first-line{
+    color: brown;
+    text-transform: capitalize;
+}
+p::after{
+    content: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFEbYJ9c_c_LPCYDW_R0dd9zP-570sjBcQog&usqp=CAU");
+}
+p::before{
+    content: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD_De9GTVN000AjplZw18zaBI_UtBXlRYr1A&usqp=CAU");
+}
+::selection{
+    background-color: aquamarine;
+    color: blueviolet;
+}
+input:checked{
+    height: 10vh;
+    width: 10vw;
+}
+input:valid{
+    background-color: blueviolet;
+}
+img:hover{
+    opacity: 0.5;
+}

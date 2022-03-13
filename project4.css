@@ -1,0 +1,28 @@
+
+
+.neos{
+    font-weight: 1000;
+    font-size: 1vw;
+    float: left;
+}
+li{
+    float: right;
+    padding-left: 1vw;
+    
+}
+ul{
+    list-style-type: none;
+    height: 2vh;
+}
+.container{
+    padding: 5vw 0vw 0vw 5vw ;
+}
+.image{ background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Oranges_-_whole-halved-segment.jpg/1200px-Oranges_-_whole-halved-segment.jpg");       
+        height: 50vh;
+        width: 60vw;
+        background-repeat: no-repeat; 
+       
+      
+        
+}  
+      
