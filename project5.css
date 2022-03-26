@@ -1,0 +1,69 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+ul{
+    margin: auto;
+  width: 72vw;
+  height: 9vh;
+   
+}
+li{
+   float: left;
+  list-style-type: none;
+  background-color: black;
+  width: 10vw;
+  height: 5vh;
+  padding: 1vh 3vw; 
+}
+li a{
+    text-decoration: none;
+    color: azure;
+}
+li:hover{
+    background-color: rgb(76, 87, 83);
+
+}
+.imagec{padding: 1vw;
+    
+
+}
+.image{
+    float: left;
+    background-image: url("https://media.istockphoto.com/photos/mountain-landscape-picture-id517188688?k=20&m=517188688&s=612x612&w=0&h=i38qBm2P-6V4vZVEaMy_TaTEaoCMkYhvLCysE7yJQ5Q=");
+    width:31vw ;
+    height:70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.image1{
+    float: left;
+    background-image: url("https://www.diyphotography.net/wp-content/uploads/2022/01/11-Final-exposing-iso800-F5_6-Expo-15.8-sec-scaled.jpg");
+    width:31vw ;
+    height:70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: blanchedalmond; 
+}
+.image2{
+    float: left;
+    background-image: url("https://i.insider.com/5a25b4ef3339b009268b45d3?width=700");
+    width: 31vw;
+    height:70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aqua; 
+}
+
+.imagecontent{
+    position: relative;
+   top: 30vh;
+   left: 13vw;
+ border-style: ridge;
+ font-weight: bolder;
+ width: 4vw;
+ border-color: blueviolet;
+
+
+}
